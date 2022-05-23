@@ -5,7 +5,7 @@
 
 
 #define WIFI_SSID "ALML78 4G"
-#define WIFI_PASSWORD "Asf@851451"
+#define WIFI_PASSWORD "EnterPasswordHere"
 
 #define FIREBASE_HOST "nodemcu-bid-default-rtdb.firebaseio.com"  // from firebase .. 
 #define FIREBASE_AUTH "ZshkWmOZVYSdGjJtqb3AD23pPQnxjNpBkyRAhIxO" // private key from the database .. 
